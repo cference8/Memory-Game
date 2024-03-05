@@ -31,6 +31,5 @@ Be prepared to present your version to the class in two weeks, as well as your u
 - Two completed usability test forms
 
 Also, make sure to include the GitHub URL in the comments.
-
-
+https://cference8.github.io/Memory-Game/
 
