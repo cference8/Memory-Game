@@ -4,14 +4,14 @@ Inspect memoryTemplate1.hype and memoryTemplate2.hype. The first version does NO
 
 All of the following 6 modifications are REQUIRED for your version of Memory:
 
-•	Replace YOUR NAME in the splash scene and also in the credits scene, along with the names of people you want to thank.
-•	Replace the cardBack.png in the Resources folder with a different image which is 75px wide by 110px in height. You can either create your own pattern or find an image under creative commons license. See the comments about PNGs in Tumult Hype at the end of step 12 and talk to the instructor if you need clarification.
-•	Replace match1.mp3, match2.mp3 & badMatch.mp3 with sounds generated from either Garageband or http://sfbgames.com/chiptone/
-•	Modify background and text colors, along with font sizes, font families and other text properties in all three scenes. 
-•	Perform two usability tests with two different people. See the usability sheet provided. See below.
-•	Host the result on GitHub using the procedure provided
+•	Replace YOUR NAME in the splash scene and also in the credits scene, along with the names of people you want to thank. 
+•	Replace the cardBack.png in the Resources folder with a different image which is 75px wide by 110px in height. You can either create your own pattern or find an image under creative commons license. See the comments about PNGs in Tumult Hype at the end of step 12 and talk to the instructor if you need clarification. 
+•	Replace match1.mp3, match2.mp3 & badMatch.mp3 with sounds generated from either Garageband or http://sfbgames.com/chiptone/  
+•	Modify background and text colors, along with font sizes, font families and other text properties in all three scenes.  
+•	Perform two usability tests with two different people. See the usability sheet provided. See below. 
+•	Host the result on GitHub using the procedure provided 
 
-In addition, choose at least 2 of the following 6 optional modifications. Feel free to add more if time permits. 
+In addition, choose at least 2 of the following 6 optional modifications. Feel free to add more if time permits.     
 
 •	Replace card0.png through card9.png with alternative images. These can either be playing cards or images used in memory type board games designed for young children. Make sure all images are 75px by 110px. 
 •	Replace the stencil animation on the splash page with a different animation which moves, scales, fades and/or utilizes other animation techniques. 
